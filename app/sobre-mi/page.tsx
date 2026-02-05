@@ -147,7 +147,7 @@ export default function SobreMiPage() {
                   🎓 Formación Profesional
                 </h3>
                 <p className="text-sm text-gray-700">
-                  Licenciado en Fisioterapia + Especialización en Salud Femenina
+                  Estudiante de último año de Fisioterapia — Enfoque en Salud Femenina
                 </p>
               </div>
               <div className="bg-white/80 backdrop-blur rounded-lg p-4 border border-sage-200">

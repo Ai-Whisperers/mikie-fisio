@@ -112,7 +112,7 @@ export function Hero() {
                     </div>
 
                     <div className="text-sm text-gray-500 space-y-1">
-                      <p>🎓 Licenciado en Fisioterapia</p>
+                      <p>🎓 Estudiante de último año — Fisioterapia</p>
                       <p>♀️ Especialista en salud femenina</p>
                       <p>🏥 Asunción, Paraguay</p>
                     </div>

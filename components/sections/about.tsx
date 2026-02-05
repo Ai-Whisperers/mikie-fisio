@@ -4,8 +4,8 @@ import Link from 'next/link';
 const achievements = [
   {
     icon: Award,
-    title: 'Licenciado en Fisioterapia',
-    description: 'Título universitario con especialización en salud femenina',
+    title: 'Estudiante de Fisioterapia — Último Año',
+    description: 'Formación universitaria con enfoque en salud femenina',
   },
   {
     icon: Heart,
